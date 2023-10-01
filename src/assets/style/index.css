@@ -1,0 +1,13 @@
+/**General styles**/
+@import "_general.scss";
+@import "_variables.scss";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Space Mono";
+}
